@@ -1,0 +1,6 @@
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\bin\Debug\Adeline.exe.config
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\bin\Debug\Adeline.exe
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\bin\Debug\Adeline.pdb
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\obj\Debug\Adeline.csprojResolveAssemblyReference.cache
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\obj\Debug\Adeline.exe
+C:\Users\gabim\Desktop\MSI\adeline\Adeline\Adeline\obj\Debug\Adeline.pdb
